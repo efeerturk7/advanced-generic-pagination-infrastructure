@@ -49,7 +49,7 @@ JSON
 Clone the repository:
 
 Bash
-git clone [https://github.com/efeerturk7/spring-boot-pageable.git](https://github.com/efeerturk7/spring-boot-pageable.git)
+git clone [https://github.com/efeerturk7/advanced-generic-pagination-infrastructure.git](https://github.com/efeerturk7/advanced-generic-pagination-infrastructure.git)
 Configure application.properties with your PostgreSQL settings.
 
 Run mvn spring-boot:run.
